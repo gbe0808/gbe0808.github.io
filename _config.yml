@@ -21,10 +21,10 @@
 title: RibbonDragon
 email: gbe0808@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Themed by ejjoo
+  Sunwoo Song
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: ejjoo
+github_username: RibbonDragon
 highlighter: rouge
 svg:
   optimize: true
